@@ -1,6 +1,6 @@
 # rotation
 
-A new Flutter project.
+it is a simple app. The app has a medium size icon at the center of the home page, you click on the icon it rotates by 180 deg with 1 sec animation and click again it should stop the animation
 
 ## Getting Started
 
